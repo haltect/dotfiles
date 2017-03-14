@@ -1,12 +1,12 @@
 syntax on
 
 set statusline=\ \%f%m%r%h%w\ \%=\ [%p%%:\ %l/%L]\ 
-highlight StatusLine ctermfg=black ctermbg=black
+highlight StatusLine ctermfg=14 ctermbg=16
 
 set nocompatible
 set ruler
 set hidden
-set tabstop=3
+set tabstop=2
 set shiftwidth=3
 set nonumber
 set wildmode=list:longest
