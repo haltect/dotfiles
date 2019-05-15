@@ -1,0 +1,78 @@
+Xft.dpi:				96
+Xft.antialias:	true
+Xft.hinting:		true
+Xft.autohint:		true
+Xft.hintstyle:	hintslight
+Xft.rgba: 			rgb
+
+urxvt.font:						xft:Inconsolata for Powerline:style=Regular:pixelsize=12
+urxvt.boldFont:				xft:Inconsolata for Powerline:style=Regular:pixelsize=12
+!urxvt.font:						xft:Hasklig:style=Regular:pixelsize=11
+!urxvt.boldFont:				xft:Hasklig:style=Regular:pixelsize=11
+
+urxvt.imLocale:				en_US.UTF-8
+urxvt.geometry:				80x45
+urxvt.saveLines:			51200
+urxvt.loginShell:			true
+urxvt.inheritPixmap:	false
+urxvt.transparent:		false
+urxvt.shading:				0
+urxvt.jumpScroll:			true
+urxvt.scrollBar:			false
+urxvt.internalBorder:	15
+urxvt.depth:					32
+urxvt.cursorBlink:		true
+urxvt.lineSpace:			1
+! urxvt.letterSpace:		0
+
+! Enable the extended coloring options
+rofi.color-enabled: true
+
+! Property Name     BG       Border   Separator
+rofi.color-window:  #3B4252, #3B4252, #2E3440
+
+! Property Name     BG       FG       BG-alt   Head-BG  Head-FG
+rofi.color-normal:  #3B4252, #E5E9F0, #3B4252, #3B4252, #8FBCBB
+rofi.color-active:  #3B4252, #EBCB8B, #3B4252, #3B4252, #EBCB8B
+rofi.color-urgent:  #3B4252, #88C0D0, #3B4252, #3B4252, #88C0D0
+
+! Set the desired separator style
+rofi.separator-style: solid
+
+! special
+*.foreground:   #d8dee8
+*.background:   #2f343f
+*.cursorColor:  #b48ead
+
+! black
+*.color0  : #4b5262
+*.color8  : #434a5a
+
+! red
+*.color1  : #bf616a
+*.color9  : #b3555e
+
+! green
+*.color2  : #a3be8c
+*.color10 : #93ae7c
+
+! yellow
+*.color3  : #ebcb8b
+*.color11 : #dbbb7b
+
+! blue
+*.color4  : #81a1c1
+*.color12 : #7191b1
+
+! magenta
+*.color5  : #b48ead
+*.color13 : #a6809f
+
+! cyan
+*.color6  : #89d0bA
+*.color14 : #7dbba8
+
+! white
+*.color7  : #e5e9f0
+*.color15 : #d1d5dc
+
