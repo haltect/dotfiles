@@ -6,7 +6,7 @@ highlight StatusLine ctermfg=14 ctermbg=16
 set nocompatible
 set ruler
 set hidden
-set tabstop=2
+set tabstop=3
 set shiftwidth=3
 set nonumber
 set wildmode=list:longest
